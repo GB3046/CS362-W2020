@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct 13 15:26:55 2015
-
 @author: tfleck
 """
 import random
